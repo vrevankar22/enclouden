@@ -1,0 +1,61 @@
+2021-03-22 20:14:32,123 :INFO : TestsalesPage : Date list ['03/27/2021\n12:00PM', '03/27/2021\n12:00PM', '03/27/2021\n12:00PM', '03/27/2021\n12:00PM', '04/10/2021\n12:00PM', '06/05/2021\n12:00PM', '06/12/2021\n12:00PM', '07/17/2021\n12:00PM']
+2021-03-22 20:21:21,417 :INFO : TestsalesPage : ['03/27/202', '03/27/202', '03/27/202', '03/27/202', '04/10/202', '06/05/202', '06/12/202', '07/17/202']
+2021-03-23 10:01:24,678 :INFO : TestsalesPage : 2021,03,29,2021,03,23,2021,03,27
+2021-03-23 10:08:21,523 :INFO : TestsalesPage : 2021,03,29
+2021-03-23 10:08:21,523 :INFO : TestsalesPage : 2021,03,23
+2021-03-23 10:08:21,523 :INFO : TestsalesPage : 2021,03,27
+2021-03-23 10:08:41,565 :INFO : TestsalesPage : 2021,03,29
+2021-03-23 10:08:41,565 :INFO : TestsalesPage : 2021,03,23
+2021-03-23 10:08:41,565 :INFO : TestsalesPage : 2021,03,27
+2021-03-23 10:09:01,580 :INFO : TestsalesPage : 2021,03,29
+2021-03-23 10:09:01,580 :INFO : TestsalesPage : 2021,03,23
+2021-03-23 10:09:01,580 :INFO : TestsalesPage : 2021,03,27
+2021-03-23 10:09:21,589 :INFO : TestsalesPage : 2021,03,29
+2021-03-23 10:09:21,589 :INFO : TestsalesPage : 2021,03,23
+2021-03-23 10:09:21,589 :INFO : TestsalesPage : 2021,03,27
+2021-03-23 10:09:41,622 :INFO : TestsalesPage : 2021,03,29
+2021-03-23 10:09:41,622 :INFO : TestsalesPage : 2021,03,23
+2021-03-23 10:09:41,622 :INFO : TestsalesPage : 2021,04,10
+2021-03-23 10:10:01,629 :INFO : TestsalesPage : 2021,03,29
+2021-03-23 10:10:01,629 :INFO : TestsalesPage : 2021,03,23
+2021-03-23 10:10:01,629 :INFO : TestsalesPage : 2021,06,05
+2021-03-23 10:10:21,645 :INFO : TestsalesPage : 2021,03,29
+2021-03-23 10:10:21,645 :INFO : TestsalesPage : 2021,03,23
+2021-03-23 10:10:21,645 :INFO : TestsalesPage : 2021,06,12
+2021-03-23 10:24:18,497 :INFO : TestsalesPage : 2021,03,29,2021,03,23,2021,03,27
+2021-03-23 10:26:45,979 :INFO : TestsalesPage : 2021,03,29,2021,03,23,2021,03,27
+2021-03-23 10:56:01,088 :INFO : TestsalesPage : ['2021,03,27']
+2021-03-23 12:10:44,804 :INFO : TestsalesPage : 2021,03,29,2021,03,23,2021,03,27
+2021-03-23 12:15:52,166 :INFO : TestsalesPage : 2021,03,29,2021,03,23,2021,03,27
+2021-03-23 13:23:43,850 :INFO : TestsalesPage : 2021-03-23,2021-03-29,2021-03-27
+2021-03-23 13:31:00,406 :INFO : TestsalesPage : 2021-03-23,2021-03-29,2021-03-27
+2021-03-23 17:57:38,379 :INFO : TestsalesPage : 8
+2021-03-23 18:01:28,496 :INFO : TestsalesPage : 8
+2021-03-24 19:06:11,253 :INFO : TestsalesPage : 9
+2021-03-24 19:06:11,274 :INFO : TestsalesPage : 5
+2021-03-24 19:20:07,605 :INFO : TestsalesPage : 03/27/2021
+12:00PM
+2021-03-24 19:20:17,667 :INFO : TestsalesPage : 03/27/2021
+12:00PM
+2021-03-24 19:20:27,795 :INFO : TestsalesPage : 03/27/2021
+12:00PM
+2021-03-24 19:20:37,856 :INFO : TestsalesPage : 03/27/2021
+12:00PM
+2021-03-24 19:20:47,909 :INFO : TestsalesPage : 04/10/2021
+12:00PM
+2021-03-24 19:20:57,943 :INFO : TestsalesPage : 06/05/2021
+12:00PM
+2021-03-24 19:21:08,000 :INFO : TestsalesPage : 06/12/2021
+12:00PM
+2021-03-24 19:21:18,051 :INFO : TestsalesPage : 07/17/2021
+12:00PM
+2021-03-24 19:24:18,115 :INFO : TestsalesPage : 03/27/2021
+2021-03-24 19:24:38,162 :INFO : TestsalesPage : 03/27/2021
+2021-03-24 19:24:58,226 :INFO : TestsalesPage : 03/27/2021
+2021-03-26 10:17:28,907 :INFO : TestsalesPage : Date not falling between 7 days
+2021-03-26 10:18:49,541 :INFO : TestsalesPage : Date not falling between 7 days
+2021-03-26 10:18:49,569 :INFO : TestsalesPage : Date not falling between 7 days
+2021-03-26 10:18:49,594 :INFO : TestsalesPage : Date not falling between 7 days
+2021-03-26 10:18:49,619 :INFO : TestsalesPage : Date not falling between 7 days
+2021-03-26 10:20:10,024 :INFO : TestsalesPage : Date not falling between 7 days
+2021-03-26 10:20:38,073 :INFO : TestsalesPage : Date not falling between 7 days
